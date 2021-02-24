@@ -1,1 +1,1 @@
-# revesrese-of-a-no.
+# reverse-of-a-no.
